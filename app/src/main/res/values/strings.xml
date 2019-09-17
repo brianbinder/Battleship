@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Battleship</string>
+    <string name="battleship_icon">Cartoon navy vessel</string>
+</resources>
